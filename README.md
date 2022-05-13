@@ -7,8 +7,8 @@ The application is testable using the testcases written using PHPUnit which is f
 Please find below the steps required to setup he project and execute.
 
 1. Clone the repo
-2. Run ```'Composer Install'```
-3. Run the test files with ```'./vendor/bin/phpunit tests'```
+2. Run ```Composer Install```
+3. Run the test files with ```./vendor/bin/phpunit --testdox tests```
 
 **Infrastructure**
 
