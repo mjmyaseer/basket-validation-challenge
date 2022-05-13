@@ -2,7 +2,7 @@
 
 The code represents a basic solution for a checkout basket.
 
-The application is testable using the testcases written in PHPUnit which is found in the 'tests' folder.
+The application is testable using the testcases written using PHPUnit which is found in the 'tests' folder.
 
 Please find below the steps required to setup he project and execute.
 
